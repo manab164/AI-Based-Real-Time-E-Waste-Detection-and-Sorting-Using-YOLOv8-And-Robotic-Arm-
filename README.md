@@ -1,0 +1,2 @@
+# AI-Based-Real-Time-E-Waste-Detection-and-Sorting-Using-YOLOv8-And-Robotic-Arm-
+This project presents an AI Powered real time E-waste sorting system that uses the YOLOv8 object detection model and a robotic arm to automatically identify, classify, and segregate electronic waste into hazard categories. This system reduces human exposure to hazardous materials and promotes safe, intelligent and sustainable e-waste management.
