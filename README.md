@@ -27,14 +27,13 @@ By eliminating manual sorting, the system improves recycling efficiency, reduces
 - YOLOv8 (Ultralytics)
 - OpenCV
 - Computer Vision
-- Deep Learning
 - Arduino Uno
 - 4-DOF Robotic Arm
 - USB Camera
 - NumPy
 - PySerial
 - Roboflow
-- Google Colab / Local Training
+- Local Training
 
 ---
 
@@ -74,7 +73,6 @@ The proposed AI-powered e-waste sorting system demonstrated:
 - Automated pick-and-place operation using a robotic arm.
 - Reduced manual handling of hazardous electronic waste.
 - Improved sorting efficiency and operational safety.
-- Scalable architecture suitable for smart recycling facilities.
 
 ---
 
@@ -107,8 +105,6 @@ The proposed AI-powered e-waste sorting system demonstrated:
 - Expand the dataset with more e-waste categories.
 - Improve model accuracy using larger and more diverse datasets.
 - Deploy the system on embedded devices such as NVIDIA Jetson or Raspberry Pi.
-- Integrate IoT for remote monitoring and control.
-- Develop a web dashboard for real-time analytics and system monitoring.
 - Add conveyor belt automation for large-scale industrial deployment.
 
 ---
